@@ -1,0 +1,30 @@
+div{
+	width:300px;
+	height:800px;
+	border:1px soild black;
+	float: left;
+}
+.green{
+	background-color: skyblue;
+}
+.green1{
+	width:700px;
+	height:900px;
+	text-indent: 3em;
+}
+h1{
+	font-size：35px;
+	text-align: center;
+
+}
+
+h2{
+	font-size: 25px;
+
+}
+p{
+	font-size:20px;
+}
+.red{
+	line-height: 5px;
+}
